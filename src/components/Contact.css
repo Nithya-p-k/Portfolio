@@ -1,0 +1,39 @@
+.contact-form input,
+.contact-form textarea {
+  color: #2C3E50; /* Soft dark blue for readability */
+  background-color: #FDFEFE; /* Very light background */
+  padding: 0.75rem;
+  border: 1px solid #CBD5E0; /* Light gray-blue border */
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 100%;
+  transition: border-color 0.3s ease;
+}
+
+.contact-form input::placeholder,
+.contact-form textarea::placeholder {
+  color: #888; /* Softer placeholder text */
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  border-color: #6C63FF; /* Calm indigo highlight on focus */
+  outline: none;
+}
+.contact-details a,
+.contact-details p {
+  transition: color 0.3s ease, transform 0.3s ease;
+}
+
+/* Hover effect for links */
+.contact-details a:hover {
+  color: #1d4ed8; /* A darker blue */
+  transform: scale(1.05);
+}
+
+/* Hover effect for phone (if not inside an anchor) */
+.contact-details p:hover {
+  color: #1d4ed8;
+  transform: scale(1.05);
+}
+
