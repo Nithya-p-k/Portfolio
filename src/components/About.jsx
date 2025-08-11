@@ -8,7 +8,7 @@ const About = () => {
       <div className="about-content">
         <img src={aboutImage} alt="Nithya P.K." className="about-image" />
         <div className="about-text">
-          <h2>Nithya p.k</h2>
+          <h2>Nithya PK</h2>
           <p><strong>Counselling Psychologist</strong></p>
           <ul>
             <li>Consultant at Chennai Counselling Services, Chennai</li>

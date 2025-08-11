@@ -19,7 +19,7 @@ const Navbar = () => {
       {/* Logo */}
       <div className="logo">
         <img src={navlogo} alt="Logo" className="logo-img" />
-        Nithya P.K
+        Nithya PK
       </div>
 
       {/* Hamburger Icon */}
