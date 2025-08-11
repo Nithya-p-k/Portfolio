@@ -33,7 +33,7 @@ const Contact = () => {
       <p className="contact-subheading highlight">Feeling <strong>stressed</strong>, <strong>anxious</strong>, <strong>helpless</strong>, or <strong>unheard</strong>?</p>
 
       <div className="contact-details">
-        <p><MdEmail className="icon" /> <a href="mailto:nithya.psy123@gmail.com">nithya.psy123@gmail.com</a></p>
+        <p><MdEmail className="icon" /> <a href="mailto:kalishkalai2003@gmail.com">nithya.psy123@gmail.com</a></p>
          <p><MdPhone className="icon" /> <a href="tel:+918122437971">+91 8122437971</a></p>
       </div>
 
